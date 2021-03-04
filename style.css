@@ -102,7 +102,6 @@ nav a:visited:active
     text-align: center;
     color: black;
 }
-
 .section--gray
 {
     border-top: 1px solid #D6D9DC;
@@ -117,7 +116,7 @@ nav a:visited:active
     margin-bottom: 0;
 }
 
-@media only screen and (min-width: 580px) {
+@media only screen and (min-width: 500px) {
     .section {
       margin: 4em auto;
       padding: 2.5em 3em;
